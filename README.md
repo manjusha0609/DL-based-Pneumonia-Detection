@@ -1,4 +1,5 @@
 **DL-based Pneumonia Detection**
+
 Deep learning–based object detection system for identifying pneumonia opacities in chest X-ray images.
 
 This project was developed as part of the RSNA Pneumonia Detection Challenge, using RetinaNet with a ResNet-101 backbone to detect and localize pneumonia regions in DICOM X-rays.
@@ -34,10 +35,15 @@ Visualization: Bounding boxes drawn on predictions (green = model, red = ground 
 The model demonstrated strong generalization on unseen X-rays, successfully detecting pneumonia-related opacities.
 📂 Repository Structure
 ├── MyProject.py          # Model training script
+
 ├── test.ipynb            # Notebook for evaluation & visualization
+
 ├── logs/                 # Training logs
+
 ├── test_predictions/     # Sample predictions on test X-rays
+
 ├── README.md             # Project description
+
 ├── requirements.txt      # Dependencies
 
 **Usage:**
