@@ -33,18 +33,20 @@ Validation Loss: ~0.71 (best model)
 Visualization: Bounding boxes drawn on predictions (green = model, red = ground truth)
 
 The model demonstrated strong generalization on unseen X-rays, successfully detecting pneumonia-related opacities.
+
 **Repository Structure:**
-MyProject.py          # Model training script
 
-test.ipynb            # Notebook for evaluation & visualization
+- MyProject.py          # Model training script
 
-logs/                 # Training logs
+- test.ipynb            # Notebook for evaluation & visualization
 
-test_predictions/     # Sample predictions on test X-rays
+- logs/                 # Training logs
 
-README.md             # Project description
+- test_predictions/     # Sample predictions on test X-rays
 
-requirements.txt      # Dependencies
+- README.md             # Project description
+
+- requirements.txt      # Dependencies
 
 **Usage:**
 **1. Clone the repo:** git clone https://github.com/manjusha0609/DL-based-Pneumonia-Detection.git
