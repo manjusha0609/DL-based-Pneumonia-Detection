@@ -1,0 +1,45 @@
+Loaded 6012 annotated pneumonia cases.
+No saved model found — training from scratch.
+Epoch 1/30, Train Loss: 2.0463, Val Loss: 0.8328
+Saved improved model.
+Epoch 2/30, Train Loss: 0.7841, Val Loss: 0.7521
+Saved improved model.
+Epoch 3/30, Train Loss: 0.7418, Val Loss: 0.7364
+Saved improved model.
+Epoch 4/30, Train Loss: 0.7187, Val Loss: 0.7360
+Saved improved model.
+Epoch 5/30, Train Loss: 0.6961, Val Loss: 0.7339
+Saved improved model.
+Epoch 6/30, Train Loss: 0.6239, Val Loss: 0.7106
+Saved improved model.
+Epoch 7/30, Train Loss: 0.5718, Val Loss: 0.7234
+No improvement. Patience: 1/5
+Epoch 8/30, Train Loss: 0.4990, Val Loss: 0.7955
+No improvement. Patience: 2/5
+Epoch 9/30, Train Loss: 0.4251, Val Loss: 0.8176
+No improvement. Patience: 3/5
+Epoch 10/30, Train Loss: 0.3572, Val Loss: 0.8743
+No improvement. Patience: 4/5
+Epoch 11/30, Train Loss: 0.2645, Val Loss: 0.9417
+No improvement. Patience: 5/5
+Early stopping.
+Model ready for evaluation or inference.
+
+Running evaluation using TorchMetrics...
+mAP@0.5: 0.3850
+map: 0.3850
+map_50: 0.3850
+map_75: -1.0000
+map_small: -1.0000
+map_medium: 0.1139
+map_large: 0.4378
+mar_1: 0.3165
+mar_10: 0.4430
+mar_100: 0.4430
+mar_small: -1.0000
+mar_medium: 0.1429
+mar_large: 0.5077
+map_per_class: -1.0000
+mar_100_per_class: -1.0000
+classes: 1.0000
+Job finished on Sun May  4 13:25:57 MDT 2025

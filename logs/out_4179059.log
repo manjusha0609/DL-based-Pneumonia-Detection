@@ -1,0 +1,134 @@
+Loaded 6012 annotated pneumonia cases.
+Training model...
+Epoch [1/100] - Avg Loss: 0.2872
+Improved loss. Model saved to saved_model.pth
+Epoch [2/100] - Avg Loss: 0.2760
+Improved loss. Model saved to saved_model.pth
+Epoch [3/100] - Avg Loss: 0.2642
+Improved loss. Model saved to saved_model.pth
+Epoch [4/100] - Avg Loss: 0.2581
+Improved loss. Model saved to saved_model.pth
+Epoch [5/100] - Avg Loss: 0.2547
+Improved loss. Model saved to saved_model.pth
+Epoch [6/100] - Avg Loss: 0.2460
+Improved loss. Model saved to saved_model.pth
+Epoch [7/100] - Avg Loss: 0.2368
+Improved loss. Model saved to saved_model.pth
+Epoch [8/100] - Avg Loss: 0.2277
+Improved loss. Model saved to saved_model.pth
+Epoch [9/100] - Avg Loss: 0.2164
+Improved loss. Model saved to saved_model.pth
+Epoch [10/100] - Avg Loss: 0.2059
+Improved loss. Model saved to saved_model.pth
+Epoch [11/100] - Avg Loss: 0.1965
+Improved loss. Model saved to saved_model.pth
+Epoch [12/100] - Avg Loss: 0.1904
+Improved loss. Model saved to saved_model.pth
+Epoch [13/100] - Avg Loss: 0.1776
+Improved loss. Model saved to saved_model.pth
+Epoch [14/100] - Avg Loss: 0.1695
+Improved loss. Model saved to saved_model.pth
+Epoch [15/100] - Avg Loss: 0.1635
+Improved loss. Model saved to saved_model.pth
+Epoch [16/100] - Avg Loss: 0.1562
+Improved loss. Model saved to saved_model.pth
+Epoch [17/100] - Avg Loss: 0.1498
+Improved loss. Model saved to saved_model.pth
+Epoch [18/100] - Avg Loss: 0.1463
+Improved loss. Model saved to saved_model.pth
+Epoch [19/100] - Avg Loss: 0.1366
+Improved loss. Model saved to saved_model.pth
+Epoch [20/100] - Avg Loss: 0.1319
+Improved loss. Model saved to saved_model.pth
+Epoch [21/100] - Avg Loss: 0.1273
+Improved loss. Model saved to saved_model.pth
+Epoch [22/100] - Avg Loss: 0.1237
+Improved loss. Model saved to saved_model.pth
+Epoch [23/100] - Avg Loss: 0.1221
+Improved loss. Model saved to saved_model.pth
+Epoch [24/100] - Avg Loss: 0.1152
+Improved loss. Model saved to saved_model.pth
+Epoch [25/100] - Avg Loss: 0.1146
+No significant improvement. Patience: 1/10
+Epoch [26/100] - Avg Loss: 0.1078
+Improved loss. Model saved to saved_model.pth
+Epoch [27/100] - Avg Loss: 0.1059
+Improved loss. Model saved to saved_model.pth
+Epoch [28/100] - Avg Loss: 0.1029
+Improved loss. Model saved to saved_model.pth
+Epoch [29/100] - Avg Loss: 0.0986
+Improved loss. Model saved to saved_model.pth
+Epoch [30/100] - Avg Loss: 0.0969
+Improved loss. Model saved to saved_model.pth
+Epoch [31/100] - Avg Loss: 0.0903
+Improved loss. Model saved to saved_model.pth
+Epoch [32/100] - Avg Loss: 0.0914
+No significant improvement. Patience: 1/10
+Epoch [33/100] - Avg Loss: 0.0910
+No significant improvement. Patience: 2/10
+Epoch [34/100] - Avg Loss: 0.0906
+No significant improvement. Patience: 3/10
+Epoch [35/100] - Avg Loss: 0.0882
+Improved loss. Model saved to saved_model.pth
+Epoch [36/100] - Avg Loss: 0.0832
+Improved loss. Model saved to saved_model.pth
+Epoch [37/100] - Avg Loss: 0.0828
+No significant improvement. Patience: 1/10
+Epoch [38/100] - Avg Loss: 0.0815
+Improved loss. Model saved to saved_model.pth
+Epoch [39/100] - Avg Loss: 0.0818
+No significant improvement. Patience: 1/10
+Epoch [40/100] - Avg Loss: 0.0814
+No significant improvement. Patience: 2/10
+Epoch [41/100] - Avg Loss: 0.0794
+Improved loss. Model saved to saved_model.pth
+Epoch [42/100] - Avg Loss: 0.0750
+Improved loss. Model saved to saved_model.pth
+Epoch [43/100] - Avg Loss: 0.0747
+No significant improvement. Patience: 1/10
+Epoch [44/100] - Avg Loss: 0.0742
+No significant improvement. Patience: 2/10
+Epoch [45/100] - Avg Loss: 0.0688
+Improved loss. Model saved to saved_model.pth
+Epoch [46/100] - Avg Loss: 0.0704
+No significant improvement. Patience: 1/10
+Epoch [47/100] - Avg Loss: 0.0739
+No significant improvement. Patience: 2/10
+Epoch [48/100] - Avg Loss: 0.0776
+No significant improvement. Patience: 3/10
+Epoch [49/100] - Avg Loss: 0.0807
+No significant improvement. Patience: 4/10
+Epoch [50/100] - Avg Loss: 0.0786
+No significant improvement. Patience: 5/10
+Epoch [51/100] - Avg Loss: 0.0743
+No significant improvement. Patience: 6/10
+Epoch [52/100] - Avg Loss: 0.0714
+No significant improvement. Patience: 7/10
+Epoch [53/100] - Avg Loss: 0.0636
+Improved loss. Model saved to saved_model.pth
+Epoch [54/100] - Avg Loss: 0.0613
+Improved loss. Model saved to saved_model.pth
+Epoch [55/100] - Avg Loss: 0.0640
+No significant improvement. Patience: 1/10
+Epoch [56/100] - Avg Loss: 0.0627
+No significant improvement. Patience: 2/10
+Epoch [57/100] - Avg Loss: 0.0635
+No significant improvement. Patience: 3/10
+Epoch [58/100] - Avg Loss: 0.0681
+No significant improvement. Patience: 4/10
+Epoch [59/100] - Avg Loss: 0.0649
+No significant improvement. Patience: 5/10
+Epoch [60/100] - Avg Loss: 0.0727
+No significant improvement. Patience: 6/10
+Epoch [61/100] - Avg Loss: 0.0843
+No significant improvement. Patience: 7/10
+Epoch [62/100] - Avg Loss: 0.0742
+No significant improvement. Patience: 8/10
+Epoch [63/100] - Avg Loss: 0.0684
+No significant improvement. Patience: 9/10
+Epoch [64/100] - Avg Loss: 0.0600
+Improved loss. Model saved to saved_model.pth
+Epoch [65/100] - Avg Loss: 0.0549
+Improved loss. Model saved to saved_model.pth
+Epoch [66/100] - Avg Loss: 0.0543
+No significant improvement. Patience: 1/10

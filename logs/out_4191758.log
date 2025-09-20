@@ -1,0 +1,25 @@
+Loaded 6012 annotated pneumonia cases.
+No saved model found — training from scratch.
+Epoch 1/40, Train Loss: 0.9644, Val Loss: 0.8398
+Saved improved model.
+Epoch 2/40, Train Loss: 0.7990, Val Loss: 0.7731
+Saved improved model.
+Epoch 3/40, Train Loss: 0.7204, Val Loss: 0.7682
+Saved improved model.
+Epoch 4/40, Train Loss: 0.6289, Val Loss: 0.7916
+No improvement. Patience: 1/7
+Epoch 5/40, Train Loss: 0.5260, Val Loss: 0.8537
+No improvement. Patience: 2/7
+Epoch 6/40, Train Loss: 0.4266, Val Loss: 0.8591
+No improvement. Patience: 3/7
+Epoch 7/40, Train Loss: 0.3557, Val Loss: 0.9194
+No improvement. Patience: 4/7
+Epoch 8/40, Train Loss: 0.3089, Val Loss: 0.9730
+No improvement. Patience: 5/7
+Epoch 9/40, Train Loss: 0.2769, Val Loss: 1.0777
+No improvement. Patience: 6/7
+Epoch 10/40, Train Loss: 0.2506, Val Loss: 1.0221
+No improvement. Patience: 7/7
+Early stopping.
+Model ready for evaluation or inference.
+Job finished on Mon May  5 00:20:06 MDT 2025

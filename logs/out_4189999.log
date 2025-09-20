@@ -1,0 +1,24 @@
+Loaded 6012 annotated pneumonia cases.
+Model already trained — loading saved model.
+Model ready for evaluation or inference.
+
+Running evaluation using TorchMetrics...
+mAP@0.5: 1.0000
+map: 1.0000
+map_50: 1.0000
+map_75: -1.0000
+map_small: -1.0000
+map_medium: 1.0000
+map_large: 1.0000
+mar_1: 0.5747
+mar_10: 1.0000
+mar_100: 1.0000
+mar_small: -1.0000
+mar_medium: 1.0000
+mar_large: 1.0000
+map_per_class: -1.0000
+mar_100_per_class: -1.0000
+classes: 1.0000
+
+Generating predictions on test images...
+Job finished on Sun May  4 11:15:34 MDT 2025

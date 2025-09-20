@@ -1,0 +1,119 @@
+Loaded 6012 annotated pneumonia cases.
+Training model with early stopping...
+Epoch [1/100] - Avg Loss: 0.2902
+Loss breakdown: {'loss_classifier': 0.09335814416408539, 'loss_box_reg': 0.15195125341415405, 'loss_objectness': 0.0044610993936657906, 'loss_rpn_box_reg': 0.002649853937327862}
+Improved loss. Model saved to saved_model.pth
+Epoch [2/100] - Avg Loss: 0.2761
+Loss breakdown: {'loss_classifier': 0.06681933999061584, 'loss_box_reg': 0.09831200540065765, 'loss_objectness': 0.008829989470541477, 'loss_rpn_box_reg': 0.0035655624233186245}
+Improved loss. Model saved to saved_model.pth
+Epoch [3/100] - Avg Loss: 0.2666
+Loss breakdown: {'loss_classifier': 0.09256532788276672, 'loss_box_reg': 0.12870630621910095, 'loss_objectness': 0.005710677709430456, 'loss_rpn_box_reg': 0.0025438820011913776}
+Improved loss. Model saved to saved_model.pth
+Epoch [4/100] - Avg Loss: 0.2611
+Loss breakdown: {'loss_classifier': 0.08613570779561996, 'loss_box_reg': 0.1352553516626358, 'loss_objectness': 0.003660348942503333, 'loss_rpn_box_reg': 0.0031882761977612972}
+Improved loss. Model saved to saved_model.pth
+Epoch [5/100] - Avg Loss: 0.2544
+Loss breakdown: {'loss_classifier': 0.16969691216945648, 'loss_box_reg': 0.25851863622665405, 'loss_objectness': 0.004153893794864416, 'loss_rpn_box_reg': 0.0036267382092773914}
+Improved loss. Model saved to saved_model.pth
+Epoch [6/100] - Avg Loss: 0.2454
+Loss breakdown: {'loss_classifier': 0.08579207211732864, 'loss_box_reg': 0.1500488668680191, 'loss_objectness': 0.004728158935904503, 'loss_rpn_box_reg': 0.005586595274507999}
+Improved loss. Model saved to saved_model.pth
+Epoch [7/100] - Avg Loss: 0.2363
+Loss breakdown: {'loss_classifier': 0.06548238545656204, 'loss_box_reg': 0.09961225092411041, 'loss_objectness': 0.003937781788408756, 'loss_rpn_box_reg': 0.0035613407380878925}
+Improved loss. Model saved to saved_model.pth
+Epoch [8/100] - Avg Loss: 0.2284
+Loss breakdown: {'loss_classifier': 0.0635303482413292, 'loss_box_reg': 0.11417608708143234, 'loss_objectness': 0.00653084134683013, 'loss_rpn_box_reg': 0.008552394807338715}
+Improved loss. Model saved to saved_model.pth
+Epoch [9/100] - Avg Loss: 0.2184
+Loss breakdown: {'loss_classifier': 0.10122425854206085, 'loss_box_reg': 0.16742470860481262, 'loss_objectness': 0.001987497555091977, 'loss_rpn_box_reg': 0.004476374946534634}
+Improved loss. Model saved to saved_model.pth
+Epoch [10/100] - Avg Loss: 0.2081
+Loss breakdown: {'loss_classifier': 0.08064344525337219, 'loss_box_reg': 0.12146075814962387, 'loss_objectness': 0.004875220824033022, 'loss_rpn_box_reg': 0.002804541029036045}
+Improved loss. Model saved to saved_model.pth
+Epoch [11/100] - Avg Loss: 0.1989
+Loss breakdown: {'loss_classifier': 0.07300759106874466, 'loss_box_reg': 0.10275192558765411, 'loss_objectness': 0.008686482906341553, 'loss_rpn_box_reg': 0.00252199312672019}
+Improved loss. Model saved to saved_model.pth
+Epoch [12/100] - Avg Loss: 0.1896
+Loss breakdown: {'loss_classifier': 0.10627999901771545, 'loss_box_reg': 0.12198523432016373, 'loss_objectness': 0.008154094219207764, 'loss_rpn_box_reg': 0.004647971596568823}
+Improved loss. Model saved to saved_model.pth
+Epoch [13/100] - Avg Loss: 0.1777
+Loss breakdown: {'loss_classifier': 0.06139978766441345, 'loss_box_reg': 0.11591095477342606, 'loss_objectness': 0.0031935356091707945, 'loss_rpn_box_reg': 0.005878654308617115}
+Improved loss. Model saved to saved_model.pth
+Epoch [14/100] - Avg Loss: 0.1699
+Loss breakdown: {'loss_classifier': 0.07226084172725677, 'loss_box_reg': 0.12782931327819824, 'loss_objectness': 0.0029556467197835445, 'loss_rpn_box_reg': 0.006802050396800041}
+Improved loss. Model saved to saved_model.pth
+Epoch [15/100] - Avg Loss: 0.1618
+Loss breakdown: {'loss_classifier': 0.031959839165210724, 'loss_box_reg': 0.0686553567647934, 'loss_objectness': 0.00035113305784761906, 'loss_rpn_box_reg': 0.001217848970554769}
+Improved loss. Model saved to saved_model.pth
+Epoch [16/100] - Avg Loss: 0.1521
+Loss breakdown: {'loss_classifier': 0.07427559047937393, 'loss_box_reg': 0.08499608933925629, 'loss_objectness': 0.0035118034575134516, 'loss_rpn_box_reg': 0.005297129508107901}
+Improved loss. Model saved to saved_model.pth
+Epoch [17/100] - Avg Loss: 0.1454
+Loss breakdown: {'loss_classifier': 0.04681963846087456, 'loss_box_reg': 0.08247692883014679, 'loss_objectness': 0.0012473666574805975, 'loss_rpn_box_reg': 0.002379204612225294}
+Improved loss. Model saved to saved_model.pth
+Epoch [18/100] - Avg Loss: 0.1424
+Loss breakdown: {'loss_classifier': 0.052326418459415436, 'loss_box_reg': 0.09884528815746307, 'loss_objectness': 0.0008812014712020755, 'loss_rpn_box_reg': 0.0034092620480805635}
+Improved loss. Model saved to saved_model.pth
+Epoch [19/100] - Avg Loss: 0.1339
+Loss breakdown: {'loss_classifier': 0.042077068239450455, 'loss_box_reg': 0.10915689170360565, 'loss_objectness': 0.001671676291152835, 'loss_rpn_box_reg': 0.002056415658444166}
+Improved loss. Model saved to saved_model.pth
+Epoch [20/100] - Avg Loss: 0.1303
+Loss breakdown: {'loss_classifier': 0.05974569171667099, 'loss_box_reg': 0.09052927047014236, 'loss_objectness': 0.00036718850606121123, 'loss_rpn_box_reg': 0.00566512905061245}
+Improved loss. Model saved to saved_model.pth
+Epoch [21/100] - Avg Loss: 0.1314
+Loss breakdown: {'loss_classifier': 0.0651770681142807, 'loss_box_reg': 0.11435984075069427, 'loss_objectness': 0.0024261148646473885, 'loss_rpn_box_reg': 0.002269947435706854}
+No improvement. Patience: 1/5
+Epoch [22/100] - Avg Loss: 0.1236
+Loss breakdown: {'loss_classifier': 0.07023914903402328, 'loss_box_reg': 0.11991849541664124, 'loss_objectness': 0.0019707949832081795, 'loss_rpn_box_reg': 0.003025259356945753}
+Improved loss. Model saved to saved_model.pth
+Epoch [23/100] - Avg Loss: 0.1174
+Loss breakdown: {'loss_classifier': 0.04051255062222481, 'loss_box_reg': 0.1285923719406128, 'loss_objectness': 0.0009474637336097658, 'loss_rpn_box_reg': 0.003261362202465534}
+Improved loss. Model saved to saved_model.pth
+Epoch [24/100] - Avg Loss: 0.1079
+Loss breakdown: {'loss_classifier': 0.029539749026298523, 'loss_box_reg': 0.065457783639431, 'loss_objectness': 0.0012093124678358436, 'loss_rpn_box_reg': 0.002030988223850727}
+Improved loss. Model saved to saved_model.pth
+Epoch [25/100] - Avg Loss: 0.1068
+Loss breakdown: {'loss_classifier': 0.024004649370908737, 'loss_box_reg': 0.04927075281739235, 'loss_objectness': 0.0013205541763454676, 'loss_rpn_box_reg': 0.0012653969461098313}
+Improved loss. Model saved to saved_model.pth
+Epoch [26/100] - Avg Loss: 0.1036
+Loss breakdown: {'loss_classifier': 0.061597250401973724, 'loss_box_reg': 0.09871486574411392, 'loss_objectness': 0.002441049786284566, 'loss_rpn_box_reg': 0.0026155305095016956}
+Improved loss. Model saved to saved_model.pth
+Epoch [27/100] - Avg Loss: 0.1047
+Loss breakdown: {'loss_classifier': 0.035945165902376175, 'loss_box_reg': 0.08491139113903046, 'loss_objectness': 0.0018742209067568183, 'loss_rpn_box_reg': 0.0020250778179615736}
+No improvement. Patience: 1/5
+Epoch [28/100] - Avg Loss: 0.1015
+Loss breakdown: {'loss_classifier': 0.03111495077610016, 'loss_box_reg': 0.10783428698778152, 'loss_objectness': 0.002402693033218384, 'loss_rpn_box_reg': 0.0025941082276403904}
+Improved loss. Model saved to saved_model.pth
+Epoch [29/100] - Avg Loss: 0.0962
+Loss breakdown: {'loss_classifier': 0.05007931590080261, 'loss_box_reg': 0.07120907306671143, 'loss_objectness': 0.00195932574570179, 'loss_rpn_box_reg': 0.0016076116589829326}
+Improved loss. Model saved to saved_model.pth
+Epoch [30/100] - Avg Loss: 0.0949
+Loss breakdown: {'loss_classifier': 0.03139006718993187, 'loss_box_reg': 0.0597584992647171, 'loss_objectness': 0.00046647328417748213, 'loss_rpn_box_reg': 0.0038323404733091593}
+Improved loss. Model saved to saved_model.pth
+Epoch [31/100] - Avg Loss: 0.0925
+Loss breakdown: {'loss_classifier': 0.03399159386754036, 'loss_box_reg': 0.07479097694158554, 'loss_objectness': 0.000992180546745658, 'loss_rpn_box_reg': 0.002489643171429634}
+Improved loss. Model saved to saved_model.pth
+Epoch [32/100] - Avg Loss: 0.0912
+Loss breakdown: {'loss_classifier': 0.046494003385305405, 'loss_box_reg': 0.07954084873199463, 'loss_objectness': 0.008566394448280334, 'loss_rpn_box_reg': 0.004041585139930248}
+Improved loss. Model saved to saved_model.pth
+Epoch [33/100] - Avg Loss: 0.0868
+Loss breakdown: {'loss_classifier': 0.018328160047531128, 'loss_box_reg': 0.04730331897735596, 'loss_objectness': 0.00047312083188444376, 'loss_rpn_box_reg': 0.0029047871939837933}
+Improved loss. Model saved to saved_model.pth
+Epoch [34/100] - Avg Loss: 0.0846
+Loss breakdown: {'loss_classifier': 0.0319933220744133, 'loss_box_reg': 0.06268992274999619, 'loss_objectness': 0.001185815199278295, 'loss_rpn_box_reg': 0.0018311429303139448}
+Improved loss. Model saved to saved_model.pth
+Epoch [35/100] - Avg Loss: 0.0806
+Loss breakdown: {'loss_classifier': 0.04301881045103073, 'loss_box_reg': 0.0706164687871933, 'loss_objectness': 7.327338971663266e-05, 'loss_rpn_box_reg': 0.002641700441017747}
+Improved loss. Model saved to saved_model.pth
+Epoch [36/100] - Avg Loss: 0.0797
+Loss breakdown: {'loss_classifier': 0.019928114488720894, 'loss_box_reg': 0.042955826967954636, 'loss_objectness': 0.00034807840711437166, 'loss_rpn_box_reg': 0.0015904016327112913}
+Improved loss. Model saved to saved_model.pth
+Epoch [37/100] - Avg Loss: 0.0797
+Loss breakdown: {'loss_classifier': 0.03414665162563324, 'loss_box_reg': 0.06686563789844513, 'loss_objectness': 0.0007699087145738304, 'loss_rpn_box_reg': 0.002142410958185792}
+No improvement. Patience: 1/5
+Epoch [38/100] - Avg Loss: 0.0822
+Loss breakdown: {'loss_classifier': 0.01947074942290783, 'loss_box_reg': 0.06629040837287903, 'loss_objectness': 0.0008241996983997524, 'loss_rpn_box_reg': 0.002956606913357973}
+No improvement. Patience: 2/5
+Epoch [39/100] - Avg Loss: 0.0783
+Loss breakdown: {'loss_classifier': 0.03208915516734123, 'loss_box_reg': 0.06788787245750427, 'loss_objectness': 0.005405654665082693, 'loss_rpn_box_reg': 0.0015282087260857224}
+Improved loss. Model saved to saved_model.pth

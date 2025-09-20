@@ -1,0 +1,9 @@
+Loaded 6012 annotated pneumonia cases.
+Model already trained — loading saved model.
+Model ready for evaluation or inference.
+
+📊 Evaluation on validation set:
+mAP@0.5: 0.6205
+Overall mAP: 0.6205
+Recall@100: 0.7614
+Job finished on Mon May  5 01:08:27 MDT 2025
